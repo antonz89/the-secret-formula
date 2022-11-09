@@ -1,0 +1,33 @@
+/* part 1  */
+#alerter{
+    background-color: pink;
+}
+
+#alertSubmit{
+    background-color: lime;
+    border-radius: 10px;
+}
+
+#textAlerter{
+    border-radius: 5px;
+}
+
+/* part 2 */
+#builder{
+    background-color: lightblue;
+}
+#sandwichSubmit{
+    background-color: rgb(246, 214, 154);
+}
+
+#hair{
+    background-color:thistle;
+}
+#appSubmit{
+    background-color: crimson;
+    border-radius: 3px;
+}
+
+#account{
+    background-color: bisque;
+}
